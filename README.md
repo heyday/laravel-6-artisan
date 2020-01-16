@@ -1,6 +1,20 @@
 ## Nice Artisan ##
 
-This package is to add a web interface for Laravel 5 Artisan.
+This package is to add a web interface for Laravel 6 Artisan.
+
+## Temporary Installation
+
+1. Add this to composer.json
+```
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/heyday/laravel-6-artisan.git"
+    }
+]
+```
+
+2. `composer require heyday/laravel-6-artisan`
 
 
 ### Installation ###
