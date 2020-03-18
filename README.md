@@ -14,7 +14,7 @@ This package is to add a web interface for Laravel 6 Artisan.
 ]
 ```
 
-2. `composer require heyday/laravel-6-artisan`
+2. `composer require heyday/laravel-artisan`
 
 
 ### Installation ###
