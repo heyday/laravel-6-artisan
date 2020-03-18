@@ -9,7 +9,7 @@ This package is to add a web interface for Laravel 6 Artisan.
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/heyday/laravel-6-artisan.git"
+        "url": "https://github.com/heyday/laravel-artisan.git"
     }
 ]
 ```
